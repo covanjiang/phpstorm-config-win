@@ -1,8 +1,0 @@
-<application>
-  <component name="UISettings">
-    <option name="DISABLE_MNEMONICS" value="true" />
-    <option name="OVERRIDE_NONIDEA_LAF_FONTS" value="true" />
-    <option name="SHOW_MEMORY_INDICATOR" value="true" />
-    <option name="SHOW_TOOL_WINDOW_NUMBERS" value="false" />
-  </component>
-</application>
