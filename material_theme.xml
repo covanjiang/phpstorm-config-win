@@ -1,0 +1,11 @@
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="isHighContrast" value="true" />
+    <option name="isWizardShown" value="true" />
+    <option name="overrideAccentColor" value="false" />
+    <option name="accentColor" value="961b8c" />
+    <option name="selectedTheme" value="LIGHT_OWL" />
+    <option name="userId" value="-7d5b3c33:17539d75fd5:-8000" />
+    <option name="version" value="4.11.5" />
+  </component>
+</application>
