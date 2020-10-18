@@ -1,2 +1,2 @@
 # PHPStormConfig
-Windows PHPstorm configuration.
+Windows PHPStorm configuration.
