@@ -1,2 +1,3 @@
-# PHPStormConfig
-Windows PHPStorm configuration.
+# phpstorm-settings-win
+
+Windows PHPStorm settings.
