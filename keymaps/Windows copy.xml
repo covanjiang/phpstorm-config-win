@@ -2,7 +2,13 @@
   <action id="ShowSettings">
     <keyboard-shortcut first-keystroke="ctrl comma" />
   </action>
+  <action id="ToggleDistractionFreeMode">
+    <keyboard-shortcut first-keystroke="alt d" />
+  </action>
   <action id="Tool_External Tools_php-cs-fixer">
     <keyboard-shortcut first-keystroke="ctrl alt s" />
+  </action>
+  <action id="VimPluginToggle">
+    <keyboard-shortcut first-keystroke="alt v" />
   </action>
 </keymap>

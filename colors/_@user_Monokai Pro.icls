@@ -4,7 +4,7 @@
     <property name="created">2020-10-18T11:53:37</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.3.4.0.0</property>
-    <property name="modified">2020-10-21T21:01:15</property>
+    <property name="modified">2020-10-21T21:13:27</property>
     <property name="originalScheme">Monokai Pro</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -31,7 +31,7 @@
     <option name="CARET_ROW_COLOR" value="4b4248" />
     <option name="CONSOLE_BACKGROUND_KEY" value="2d2a2e" />
     <option name="DELETED_LINES_COLOR" value="ff6188" />
-    <option name="DIFF_SEPARATORS_BACKGROUND" value="1e2a30" />
+    <option name="DIFF_SEPARATORS_BACKGROUND" value="3e5764" />
     <option name="DIFF_SEPARATORS_TOP_BORDER" value="1b262b" />
     <option name="DOCUMENTATION_COLOR" value="403e41" />
     <option name="FILESTATUS_ADDED" value="a9dc76" />
@@ -112,12 +112,12 @@
     </option>
     <option name="ANGLE_BRACKETS_RAINBOW_COLOR0">
       <value>
-        <option name="FOREGROUND" value="4d40" />
+        <option name="FOREGROUND" value="da71bb" />
       </value>
     </option>
     <option name="ANGLE_BRACKETS_RAINBOW_COLOR1">
       <value>
-        <option name="FOREGROUND" value="1b5e20" />
+        <option name="FOREGROUND" value="3ed749" />
       </value>
     </option>
     <option name="ANGLE_BRACKETS_RAINBOW_COLOR2">
@@ -127,12 +127,12 @@
     </option>
     <option name="ANGLE_BRACKETS_RAINBOW_COLOR3">
       <value>
-        <option name="FOREGROUND" value="283593" />
+        <option name="FOREGROUND" value="dc6581" />
       </value>
     </option>
     <option name="ANGLE_BRACKETS_RAINBOW_COLOR4">
       <value>
-        <option name="FOREGROUND" value="795548" />
+        <option name="FOREGROUND" value="c28873" />
       </value>
     </option>
     <option name="ANNOTATION_ATTRIBUTE_NAME_ATTRIBUTES">
@@ -699,25 +699,25 @@
     </option>
     <option name="DIFF_CONFLICT">
       <value>
-        <option name="BACKGROUND" value="4b1515" />
+        <option name="BACKGROUND" value="9b2c2c" />
         <option name="ERROR_STRIPE_COLOR" value="b03435" />
       </value>
     </option>
     <option name="DIFF_DELETED">
       <value>
-        <option name="BACKGROUND" value="41454b" />
+        <option name="BACKGROUND" value="6f7680" />
         <option name="ERROR_STRIPE_COLOR" value="656e76" />
       </value>
     </option>
     <option name="DIFF_INSERTED">
       <value>
-        <option name="BACKGROUND" value="264b33" />
+        <option name="BACKGROUND" value="3f7d55" />
         <option name="ERROR_STRIPE_COLOR" value="447152" />
       </value>
     </option>
     <option name="DIFF_MODIFIED">
       <value>
-        <option name="BACKGROUND" value="12404b" />
+        <option name="BACKGROUND" value="237289" />
         <option name="ERROR_STRIPE_COLOR" value="43698d" />
       </value>
     </option>
@@ -2959,27 +2959,27 @@
     </option>
     <option name="ROUND_BRACKETS_RAINBOW_COLOR0">
       <value>
-        <option name="FOREGROUND" value="4d40" />
+        <option name="FOREGROUND" value="cb5685" />
       </value>
     </option>
     <option name="ROUND_BRACKETS_RAINBOW_COLOR1">
       <value>
-        <option name="FOREGROUND" value="1b5e20" />
+        <option name="FOREGROUND" value="438caf" />
       </value>
     </option>
     <option name="ROUND_BRACKETS_RAINBOW_COLOR2">
       <value>
-        <option name="FOREGROUND" value="6be7" />
+        <option name="FOREGROUND" value="30e745" />
       </value>
     </option>
     <option name="ROUND_BRACKETS_RAINBOW_COLOR3">
       <value>
-        <option name="FOREGROUND" value="283593" />
+        <option name="FOREGROUND" value="bf3dbc" />
       </value>
     </option>
     <option name="ROUND_BRACKETS_RAINBOW_COLOR4">
       <value>
-        <option name="FOREGROUND" value="795548" />
+        <option name="FOREGROUND" value="35c7c3" />
       </value>
     </option>
     <option name="RUBY_BAD_CHARACTER">
@@ -3351,52 +3351,52 @@
     </option>
     <option name="SQUARE_BRACKETS_RAINBOW_COLOR0">
       <value>
-        <option name="FOREGROUND" value="4d40" />
+        <option name="FOREGROUND" value="d5594a" />
       </value>
     </option>
     <option name="SQUARE_BRACKETS_RAINBOW_COLOR1">
       <value>
-        <option name="FOREGROUND" value="1b5e20" />
+        <option name="FOREGROUND" value="c75bb1" />
       </value>
     </option>
     <option name="SQUARE_BRACKETS_RAINBOW_COLOR2">
       <value>
-        <option name="FOREGROUND" value="6be7" />
+        <option name="FOREGROUND" value="49dfe7" />
       </value>
     </option>
     <option name="SQUARE_BRACKETS_RAINBOW_COLOR3">
       <value>
-        <option name="FOREGROUND" value="283593" />
+        <option name="FOREGROUND" value="2fd138" />
       </value>
     </option>
     <option name="SQUARE_BRACKETS_RAINBOW_COLOR4">
       <value>
-        <option name="FOREGROUND" value="795548" />
+        <option name="FOREGROUND" value="5a83c2" />
       </value>
     </option>
     <option name="SQUIGGLY_BRACKETS_RAINBOW_COLOR0">
       <value>
-        <option name="FOREGROUND" value="4d40" />
+        <option name="FOREGROUND" value="fbffff" />
       </value>
     </option>
     <option name="SQUIGGLY_BRACKETS_RAINBOW_COLOR1">
       <value>
-        <option name="FOREGROUND" value="1b5e20" />
+        <option name="FOREGROUND" value="27ced4" />
       </value>
     </option>
     <option name="SQUIGGLY_BRACKETS_RAINBOW_COLOR2">
       <value>
-        <option name="FOREGROUND" value="6be7" />
+        <option name="FOREGROUND" value="e744d7" />
       </value>
     </option>
     <option name="SQUIGGLY_BRACKETS_RAINBOW_COLOR3">
       <value>
-        <option name="FOREGROUND" value="283593" />
+        <option name="FOREGROUND" value="e26658" />
       </value>
     </option>
     <option name="SQUIGGLY_BRACKETS_RAINBOW_COLOR4">
       <value>
-        <option name="FOREGROUND" value="795548" />
+        <option name="FOREGROUND" value="76e530" />
       </value>
     </option>
     <option name="STATIC_FINAL_FIELD_ATTRIBUTES">
