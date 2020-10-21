@@ -4,7 +4,7 @@
     <property name="created">2020-10-18T11:53:37</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.3.4.0.0</property>
-    <property name="modified">2020-10-18T13:39:42</property>
+    <property name="modified">2020-10-21T19:27:44</property>
     <property name="originalScheme">Monokai Pro</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -58,8 +58,8 @@
     <option name="GUTTER_BACKGROUND" value="2d2a2e" />
     <option name="INDENT_GUIDE" value="403e41" />
     <option name="INFORMATION_HINT" value="403e41" />
-    <option name="LINE_NUMBERS_COLOR" value="5b595c" />
-    <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="c1c0c0" />
+    <option name="LINE_NUMBERS_COLOR" value="a7a3a9" />
+    <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="53dede" />
     <option name="METHOD_SEPARATORS_COLOR" value="59575a" />
     <option name="MODIFIED_LINES_COLOR" value="fc9867" />
     <option name="MT_IGNORE.PROJECT_VIEW.IGNORED" value="ab7967" />
@@ -991,7 +991,7 @@
     </option>
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="33e5d" />
+        <option name="BACKGROUND" value="677b3" />
         <option name="ERROR_STRIPE_COLOR" value="4d6168" />
       </value>
     </option>
@@ -2583,7 +2583,8 @@
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="99ccbb" />
+        <option name="FOREGROUND" value="ffffff" />
+        <option name="BACKGROUND" value="7ba698" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -3473,7 +3474,7 @@
     </option>
     <option name="TODO_DEFAULT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="ffd866" />
+        <option name="FOREGROUND" value="ff524f" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -3558,7 +3559,7 @@
     </option>
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="4a4d50" />
+        <option name="BACKGROUND" value="ea329" />
         <option name="ERROR_STRIPE_COLOR" value="4d6168" />
       </value>
     </option>
