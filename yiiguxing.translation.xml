@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The last level of indentation that we were at, we need to work backwards from there closing each group" />
+      <item value="If we have a submenu class, we need to close off all the remaining list item groups so that submenu classes are applied correctly to them" />
+      <item value="`space` is the current indentation, so we if want to close off the previous grouping, we need to add one more level of indentation" />
+      <item value="If we have a submenu class and we're unindenting, then we need to add a &quot;closing&quot; class to this group of bullet points" />
       <item value="skip headers that do not have an `id` attribute" />
       <item value="add custom class(es) for each anchor element" />
       <item value="add a base url to the TOC links for when your TOC is on another page than the actual content" />
@@ -13,8 +17,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="8" />
-        <entry key="ENGLISH" value="9" />
+        <entry key="CHINESE" value="12" />
+        <entry key="ENGLISH" value="13" />
       </map>
     </option>
   </component>
