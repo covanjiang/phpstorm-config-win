@@ -1,0 +1,15 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="when set to true, the headers will be stripped of any HTML in the TOC" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="ENGLISH" value="1" />
+      </map>
+    </option>
+  </component>
+  <component name="Settings">
+    <option name="ignoreRegExp" value="" />
+  </component>
+</application>
