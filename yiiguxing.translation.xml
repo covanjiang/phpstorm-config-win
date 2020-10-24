@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="add custom class(es) for each child group of headings; has support for '%level%' placeholder which is the current &quot;submenu&quot; heading level" />
+      <item value="add custom class(es) for each list item; has support for '%level%' placeholder, which is the current heading level" />
       <item value="The last level of indentation that we were at, we need to work backwards from there closing each group" />
       <item value="If we have a submenu class, we need to close off all the remaining list item groups so that submenu classes are applied correctly to them" />
       <item value="`space` is the current indentation, so we if want to close off the previous grouping, we need to add one more level of indentation" />
@@ -8,8 +10,6 @@
       <item value="skip headers that do not have an `id` attribute" />
       <item value="add custom class(es) for each anchor element" />
       <item value="add a base url to the TOC links for when your TOC is on another page than the actual content" />
-      <item value="add custom class(es) for each child group of headings; has support for '%level%' placeholder which is the current &quot;submenu&quot; heading level" />
-      <item value="add custom class(es) for each list item; has support for '%level%' placeholder, which is the current heading level" />
       <item value="when set to true, an ordered list will be outputted instead of an unordered list" />
       <item value="the maximum TOC header level to use; any header greater than this value will be ignored" />
       <item value="the minimum TOC header level to use; any header lower than this value will be ignored" />
@@ -17,8 +17,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="12" />
-        <entry key="ENGLISH" value="13" />
+        <entry key="CHINESE" value="14" />
+        <entry key="ENGLISH" value="15" />
       </map>
     </option>
   </component>
