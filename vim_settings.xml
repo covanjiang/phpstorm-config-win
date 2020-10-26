@@ -2,12 +2,47 @@
   <component name="VimEditorSettings">
     <editor />
   </component>
+  <component name="VimHistorySettings">
+    <history>
+      <history-search>
+        <entry>hearder</entry>
+        <entry>header</entry>
+      </history-search>
+    </history>
+  </component>
   <component name="VimKeySettings">
-    <shortcut-conflicts />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed X</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <filemarks>
+      <file name="E:/Workspaces/Code/covanjiang.github.io/_sass/_main.scss" timestamp="1603695715552">
+        <mark key="'" line="368" column="2" />
+      </file>
+      <file name="E:/Workspaces/Code/covanjiang.github.io/_layouts/post.html" timestamp="1603711493521" />
+    </filemarks>
+    <jumps>
+      <jump line="305" column="10" filename="E:/Workspaces/Code/covanjiang.github.io/_sass/_main.scss" />
+      <jump line="368" column="2" filename="E:/Workspaces/Code/covanjiang.github.io/_sass/_main.scss" />
+    </jumps>
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="/" type="4">
+        <text>header</text>
+      </register>
+    </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-dir>0</last-dir>
+      <last-search>header</last-search>
+      <last-offset />
+      <last-pattern>header</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
   </component>
