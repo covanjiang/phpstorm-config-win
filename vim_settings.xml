@@ -15,11 +15,15 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed X</text>
       </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
     </shortcut-conflicts>
   </component>
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="E:/Workspaces/Code/covanjiang.github.io/_includes/catalog.html" timestamp="1603758297464" />
       <file name="E:/Workspaces/Code/covanjiang.github.io/_sass/_main.scss" timestamp="1603695715552">
         <mark key="'" line="368" column="2" />
       </file>
