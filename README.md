@@ -12,8 +12,9 @@
 - Ideolog
 - Laravel
 - Material Theme UI
+- Atom Material Icons
 - PHP Annotations
-- Rainbow Bracket
+- Rainbow Brackets
 - Symfony Support
 - Translation
 
